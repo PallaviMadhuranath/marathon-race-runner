@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 22 00:59:33 PST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0151-2e6b-7516-ffffa60e42f3 
+on database directory /Users/pallavidas/Desktop/db-derby-for-java-comp/bin/MarathonDB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/Users/pallavidas/Desktop/db-derby-for-java-comp/bin/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/Users/pallavidas/Dropbox/workspace/PallaviMadhuranath_JavaCompFinal
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=/Users/pallavidas/Desktop/db-derby-for-java-comp/bin
+Database Class Loader started - derby.database.classpath=''
